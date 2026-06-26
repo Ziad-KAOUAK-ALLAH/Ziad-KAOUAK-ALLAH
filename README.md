@@ -51,7 +51,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 ## 💻 Software Development & DevSecOps Projects
 
 - <b>SoukScan – DevSecOps Food App</b>
-  - [Microservices Full-Stack App](https://github.com/KonoZioDa99/your-repo-link) - Application for monitoring product prices and vendor locations, featuring CI/CD pipelines, containerization, and security integration across the development lifecycle (In progress, 2025).
+  - [Microservices Full-Stack App](https://github.com/KonoZioDa99/SoukScan-DevSecOps-Food-App/tree/main) - Application for monitoring product prices and vendor locations, featuring CI/CD pipelines, containerization, and security integration across the development lifecycle (In progress, 2025).
 - <b>SecureHorizon – Web Platform for Trust Services</b>
   - [Cryptographic & PKI Management](https://github.com/KonoZioDa99/your-repo-link) - Certificate management, symmetric/asymmetric encryption, digital signatures, hashing, steganography, and key management via a secure web interface (PHP, JS, OpenSSL, MySQL) (2023).
 - <b>AI & Computer Vision Applications</b>
