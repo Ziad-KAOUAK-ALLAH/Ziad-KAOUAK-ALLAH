@@ -44,7 +44,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 - <b>Penetration Testing and Vulnerability Auditing</b>
   - Conducted network/web audits and contributed to the AuditCore and Cloudure platforms (GRC, Cloud Security) <i>(Internship Project)</i>.
 - <b>Linux Security Automation</b>
-  - [Vulnerability Scanning & Hardening](https://github.com/KonoZioDa99/your-repo-link) - Utilized Lynis and automated CIS Benchmark hardening using Shell & Ansible (2024).
+  - [Vulnerability Scanning & Hardening](https://github.com/KonoZioDa99/Vulnerability-Scanning-Hardening/tree/main) - Utilized Lynis and automated CIS Benchmark hardening using Shell & Ansible (2024).
 
 ---
 
