@@ -53,11 +53,6 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 - <b>AI & Computer Vision Applications</b>
   - [Crowd Counting Mobile App](https://github.com/KonoZioDa99/your-repo-link) - Offline AI-powered Android app using YOLOv8, TensorFlow Lite, and Kotlin (2025).
   - [Facial Recognition Attendance App](https://github.com/KonoZioDa99/your-repo-link) - Python, OpenCV, and SQLite application to automate employee attendance tracking <i>(Internship Project)</i>.
-### 🧠 Intelligence Artificielle & Développement
-- **Crowd Counting Mobile App (2025)**
-  - *Application Android hors-ligne utilisant l'IA (YOLOv8, TensorFlow Lite) pour le comptage de foule via Kotlin.*
-- **Application de Pointage par Reconnaissance Faciale (Stage)**
-  - *Automatisation de la gestion de présence des employés en Python, OpenCV et SQLite.*
 
 ---
 
