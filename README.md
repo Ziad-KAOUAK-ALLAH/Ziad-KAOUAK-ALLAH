@@ -24,7 +24,7 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 
 ## 🛡️ Cybersecurity & Infrastructure Projects
 
-### 🌐 Network Architecture & Zero Trust
+### 🌐 Network Architecture
 - <b>Design of a Secure Network Infrastructure with Segmentation and Application Protection via F5 and FortiGate with Log Monitoring</b> <i>(Final Year Project)</i>
   - <b>L7 Architecture:</b> Deployment of a Zero Trust infrastructure combining L4 segmentation and F5 BIG-IP for load balancing and Web filtering (WAF ASM).
   - <b>IAM & SOC Supervision:</b> Implementation of systematic MFA (F5 APM federated with Keycloak) and real-time centralized alerting using Splunk SIEM.
