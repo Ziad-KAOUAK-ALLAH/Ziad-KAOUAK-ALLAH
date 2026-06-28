@@ -51,8 +51,15 @@ My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integ
 - <b>SoukScan – DevSecOps Food App</b>
   - [Microservices Full-Stack App](https://github.com/KonoZioDa99/SoukScan-DevSecOps-Food-App/tree/main) - Application for monitoring product prices and vendor locations, featuring CI/CD pipelines, containerization, and security integration across the development lifecycle (In progress, 2025).
 - <b>SecureHorizon – Web Platform for Trust Services</b>
+  - [Cryptographic & PKI Management](https://github.com/KonoZioDa99/your-repo-link) - Certificate management, symmetric/asymmetric encryption, digital signatures, hashing, steganography, and key management via a secure web interface (PHP, JS, OpenSSL, MySQL) (2023).
+- <b>AI & Computer Vision Applications</b>
   - [Crowd Counting Mobile App](https://github.com/KonoZioDa99/your-repo-link) - Offline AI-powered Android app using YOLOv8, TensorFlow Lite, and Kotlin (2025).
   - [Facial Recognition Attendance App](https://github.com/KonoZioDa99/your-repo-link) - Python, OpenCV, and SQLite application to automate employee attendance tracking <i>(Internship Project)</i>.
+### 🧠 Intelligence Artificielle & Développement
+- **Crowd Counting Mobile App (2025)**
+  - *Application Android hors-ligne utilisant l'IA (YOLOv8, TensorFlow Lite) pour le comptage de foule via Kotlin.*
+- **Application de Pointage par Reconnaissance Faciale (Stage)**
+  - *Automatisation de la gestion de présence des employés en Python, OpenCV et SQLite.*
 
 ---
 
