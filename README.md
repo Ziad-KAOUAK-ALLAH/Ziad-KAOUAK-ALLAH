@@ -16,9 +16,9 @@
 
 ## 👨‍💻 About Me
 
-Cybersecurity Engineer specializing in defensive engineering, secure network architecture, and SOC environments. With a successful track record of designing and deploying comprehensive Zero Trust infrastructures in operational environments, I am actively seeking an opportunity as a **Cybersecurity/IS Security Consultant**. 
+**Cybersecurity Engineer** specializing in defensive engineering, secure network architecture, and SOC environments. With hands-on experience designing and simulating comprehensive Zero Trust infrastructures for complex enterprise environments, I am actively seeking opportunities in **Cyber Defense** and **Information Systems Network Security**.
 
-My goal is to leverage my technical expertise (WAF, NGFW, SIEM) to design, integrate, and operate critical security solutions for enterprise networks.
+My goal is to leverage my technical expertise across core security technologies (WAF, NGFW, SIEM, IAM) to design, integrate, and operate critical security solutions that protect enterprise networks against advanced threats.
 
 ---
 
