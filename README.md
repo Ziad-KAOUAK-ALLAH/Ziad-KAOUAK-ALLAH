@@ -52,7 +52,7 @@ My goal is to leverage my technical expertise across core security technologies 
   - [Microservices Full-Stack App](https://github.com/KonoZioDa99/SoukScan-DevSecOps-Food-App/tree/main) - Application for monitoring product prices and vendor locations, featuring CI/CD pipelines, containerization, and security integration across the development lifecycle (2025).
 - <b>AI & Computer Vision Applications</b>
   - [Crowd Counting Mobile App](https://github.com/KonoZioDa99/Crowd-Counting-Android-App) - Offline AI-powered Android app using YOLOv8, TensorFlow Lite, and Kotlin (2025).
-  - [Facial Recognition Attendance App](https://github.com/KonoZioDa99/your-repo-link) - Python, OpenCV, and SQLite application to automate employee attendance tracking <i>(Internship Project 2025)</i>.
+  - Facial Recognition Attendance App - Python, OpenCV, and SQLite application to automate employee attendance tracking <i>(Internship Project 2025)</i>.
 
 ---
 
